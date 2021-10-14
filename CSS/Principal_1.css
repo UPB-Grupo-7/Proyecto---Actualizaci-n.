@@ -10,7 +10,7 @@
 .continer {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), transparent), url(img/Biclio-min-min.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), transparent), url(../img/Biclio-min-min.jpg);
     background-size: cover;
     background-position: center;
     padding: 0 8%;
